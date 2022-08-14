@@ -1,4 +1,4 @@
 # testing
-echo * >> ~/.gitignore
+echo "*" >> .gitignore
 
 Hello Odin!
